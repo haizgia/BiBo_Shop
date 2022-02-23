@@ -20,9 +20,7 @@ html{
     display:none;
 }
 /* HEADER */
-.header{
 
-}
 .header-top{
     display: flex;
     justify-content: space-between;
@@ -418,8 +416,6 @@ html{
 }
 
 /* FOOTER */
-.footer{
-}
 .footer-top{
     display: flex;
     padding: 36px 12px 0;
